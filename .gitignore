@@ -1,0 +1,12 @@
+.venv/
+data/
+paper_assets/
+docs/
+research_guide_subgroup_recalibration.md
+__pycache__/
+*.pyc
+*.pkl
+*.docx
+*.pdf
+.DS_Store
+outputs/test_runs/
